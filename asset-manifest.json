@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/coin-flip-app/static/css/main.e5dfabcf.chunk.css",
+    "main.js": "/coin-flip-app/static/js/main.c1be976d.chunk.js",
+    "main.js.map": "/coin-flip-app/static/js/main.c1be976d.chunk.js.map",
+    "runtime-main.js": "/coin-flip-app/static/js/runtime-main.4553ad98.js",
+    "runtime-main.js.map": "/coin-flip-app/static/js/runtime-main.4553ad98.js.map",
+    "static/js/2.5a484773.chunk.js": "/coin-flip-app/static/js/2.5a484773.chunk.js",
+    "static/js/2.5a484773.chunk.js.map": "/coin-flip-app/static/js/2.5a484773.chunk.js.map",
+    "index.html": "/coin-flip-app/index.html",
+    "precache-manifest.e4f787ce77fab4afeb03a0e16c1b7496.js": "/coin-flip-app/precache-manifest.e4f787ce77fab4afeb03a0e16c1b7496.js",
+    "service-worker.js": "/coin-flip-app/service-worker.js",
+    "static/css/main.e5dfabcf.chunk.css.map": "/coin-flip-app/static/css/main.e5dfabcf.chunk.css.map",
+    "static/js/2.5a484773.chunk.js.LICENSE.txt": "/coin-flip-app/static/js/2.5a484773.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.jpg": "/coin-flip-app/static/media/bitcoin.74d5c9f8.jpg",
+    "static/media/ethereum.jpg": "/coin-flip-app/static/media/ethereum.520a65ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4553ad98.js",
+    "static/js/2.5a484773.chunk.js",
+    "static/css/main.e5dfabcf.chunk.css",
+    "static/js/main.c1be976d.chunk.js"
+  ]
+}
